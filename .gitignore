@@ -1,7 +1,5 @@
 node_modules
 package-lock.json
-all.css
-bootstrap.css
-all.js
-bootstrap.bundle.js
-shubham.jpg
+
+public
+images
