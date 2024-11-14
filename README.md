@@ -1,6 +1,20 @@
-# Resume
+# Interactive Resume Website
 
-![image](https://t3.ftcdn.net/jpg/02/47/45/50/360_F_247455008_Aj4ftNR6j7XLgP3Z1kt934SsdzZK7ml8.jpg)
+
+## screenshots
+
+![alt text](screenshots/Screenshot1.png)
+
+![alt text](screenshots/Screenshot2.png)
+
+![alt text](screenshots/Screenshot3.png)
+
+![alt text](screenshots/Screenshot4.png)
+
+
+This project is an Interactive Resume Website built with [Nodejs](https://nodejs.org/en/download) and [Express](https://expressjs.com/), allowing users to view a dynamically rendered resume. Using [EJS](https://ejs.co/) templating, the website displays sections like personal information, skills, experience, and education in a clean, organized layout. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) enhances interactivity, making the resume responsive and easy to navigate. The setup is managed through [Npm](https://www.npmjs.com/package/download), allowing for streamlined dependencies and project management. This project is ideal for learning server-side rendering, creating dynamic web pages, and showcasing personal achievements in a professional online format.
+
+
 
 ## ⚙️ Requirements
 
@@ -17,10 +31,6 @@
 #### step 1: Start the project using the following command in your project folder:
 
   + `npm init`
-  
-#### 📃 Package.json file look like point_down 👇
-
-![Screenshot from 2023-03-31 22-13-34](https://user-images.githubusercontent.com/128680209/229180538-e7d0af4a-09b6-491d-baac-1b69c45a3f46.png)
 
 #### 📥 Step 2: Install the required modules using following command:
 
@@ -30,35 +40,35 @@
 
 #### Step 3: Create two folders inside the project directory using the following command:
 
-+ mkdir views
++ `mkdir views`
 
 #### Step 4: Create another file named app.js inside project directory:
 
-+ touch app.js
++ `touch app.js`
     
 #### Step 5: create folder called Controlllers.
 
-+ cd controllers
++ `cd controllers`
 
-    +  contactControllers.ejs
-    +  homeControllers.ejs
-    +  servicesControllers.ejs
-    +  skillControllers.ejs
+    +  `contactControllers.ejs`
+    +  `homeControllers.ejs`
+    +  `servicesControllers.ejs`
+    +  `skillControllers.ejs`
     
 #### Step 6: Navigate inside views folder and create the following ejs files:
 
-+ cd views
++ `cd views`
 
-    + touch contact.ejs
-    + touch home.ejs
-    + touch services.ejs
-    + touch skill.ejs
+    + `touch contact.ejs`
+    + `touch home.ejs`
+    + `touch services.ejs`
+    + `touch skill.ejs`
     
-+ cd partials
++ `cd partials`
 
-    + touch footer.ejs
-    + touch header.ejs
-    + touch sidebar.ejs
+    + `touch footer.ejs`
+    + `touch header.ejs`
+    + `touch sidebar.ejs`
 
 #### Step 7: Run the following command to ensure all modules are loaded:
 
