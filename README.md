@@ -1,16 +1,6 @@
 # Interactive Resume Website
 
 
-## screenshots
-
-![alt text](screenshots/Screenshot1.png)
-
-![alt text](screenshots/Screenshot2.png)
-
-![alt text](screenshots/Screenshot3.png)
-
-![alt text](screenshots/Screenshot4.png)
-
 
 This project is an Interactive Resume Website built with [Nodejs](https://nodejs.org/en/download) and [Express](https://expressjs.com/), allowing users to view a dynamically rendered resume. Using [EJS](https://ejs.co/) templating, the website displays sections like personal information, skills, experience, and education in a clean, organized layout. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) enhances interactivity, making the resume responsive and easy to navigate. The setup is managed through [Npm](https://www.npmjs.com/package/download), allowing for streamlined dependencies and project management. This project is ideal for learning server-side rendering, creating dynamic web pages, and showcasing personal achievements in a professional online format.
 
